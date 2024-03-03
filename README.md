@@ -11,11 +11,3 @@ You can install this package via npm:
 ```bash
 npm install rajan-random-quote
 ```
-
-## UseCase
-
-Here is how you can use this in your file
-
-const { generateRandomQuote } = require('rajan-random-quote');
-
-console.log("Random Quote:", generateRandomQuote());
