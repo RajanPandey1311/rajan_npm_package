@@ -1,0 +1,20 @@
+{
+  "name": "rajan-random-quote",
+  "version": "1.0.0",
+  "description": "This npm package provides a simple utility to generate random quotes. It contains a collection of inspiring quotes from various sources, including Steve Jobs, Winston Churchill, Eleanor Roosevelt, and others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random-quote",
+    "inspiring",
+    "motivational"
+  ],
+  "author": "Rajan Pandey",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RajanPandey1311/rajan_npm_package.git"
+  }
+}
